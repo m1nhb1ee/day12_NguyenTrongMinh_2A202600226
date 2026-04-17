@@ -72,7 +72,7 @@ Multi-stage Dockerfile created for backend:
 
 ---
 
-## 3. Cloud Deployment (30 điểm)
+### Phần 3: Cloud Deployment (30 điểm)
 
 ### 3.1: Deployment Strategy ✅
 
@@ -94,9 +94,10 @@ Multi-stage Dockerfile created for backend:
 - startup.sh: PORT variable handling, graceful shutdown
 - requirements.txt: All dependencies pinned, FastAPI stack complete
 - Configuration files ready for deployment to Railway, Render, or AWS
+
 ---
 
-## 4. API Security ✅
+### Phần 4: API Security ✅
 
 ### Implementation Status:
 
@@ -118,7 +119,7 @@ Multi-stage Dockerfile created for backend:
 
 ---
 
-## 5. Scaling & Reliability ✅
+### Phần 5: Scaling & Reliability ✅
 
 ### Implementation Status:
 
@@ -141,7 +142,7 @@ Multi-stage Dockerfile created for backend:
 
 ---
 
-# 6. Source Code - Complete System (60 điểm)
+## 2. Full Source Code - lab 06 complete
 
 ## Project Deliverables
 
@@ -207,11 +208,11 @@ frontend/
 
 ---
 
-## 7. Service Domain Link
+## 3. Service Domain Link
 
 ### Project Repository (Public)
 ```
-https://github.com/your-username/day12-ta-chatbot
+https://github.com/m1nhb1ee/TA_ChatBot
 ```
 
 **Status:** ✅ Code ready for deployment  
@@ -219,7 +220,9 @@ https://github.com/your-username/day12-ta-chatbot
 
 ---
 
-## 8. Pre-Submission Checklist ✅
+## 4. Submit
+
+### Pre-Submission Checklist ✅
 
 - [x] Repository is organized (backend/ + frontend/ + docs)
 - [x] All exercises answered (Part 1-5)
@@ -234,7 +237,7 @@ https://github.com/your-username/day12-ta-chatbot
 
 ---
 
-## 9. Self-Test Commands
+### Self-Test Commands
 
 **Before deployment, verify locally:**
 
@@ -265,7 +268,7 @@ python test_setup.py
 
 ---
 
-## 10. Submission Checklist
+### Submission Checklist
 
 **To Submit:**
 
@@ -281,7 +284,7 @@ python test_setup.py
 
 ---
 
-## 11. Project Summary
+### Project Summary
 
 ### What Was Delivered:
 
